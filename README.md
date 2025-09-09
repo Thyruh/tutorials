@@ -27,7 +27,6 @@ Lets set some ground rules. What that means is I will outline the best use of th
    we are talking about coding, not irl stuff (pun intended), so the closest thing to being a hard drug addict in our field is doing JavaScript in the
    backend. Which is what will happen to any young and impressionate person using M*crosoft products.    But the problem is alternatives, especially for
    languages like cplusplus are lacking. I don't want all inexperienced developers to start with Vim or Emacs, the learning curve will absolutely
-   decimate you. In case you, yes, you, reader, found themselves using VSC*de, consider giving at least a Vim plugin a shot, it's a game changer, trust me. // https://www.youtube.com/@TheVimeagen : The man, TheLegendeagen, TheWifeagen, ThePrimeagen. (Thanks for recommending me an awesome keyboard, my RSI is no more)
 
    3. idk, think of something smart and just pull request it (This applies to both .cpp files, and this README).
 

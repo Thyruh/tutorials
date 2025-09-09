@@ -1,0 +1,25 @@
+In case you are crazy enough to want to work in the terminal, like real men do, i have good and bad news.
+First: You are mental, keep it up.
+Second: It is not that hard, as long as you dont have to add linker flags and work with multiple files, you will be just fine.
+
+
+So. Suppose you have a working directory with your .cpp files: I called it examples/.
+<filename>.cpp is inside the examples directory.
+
+```
+cd examples/
+ls                                   # make sure you can see the .cpp file
+g++ <filename>.cpp -o <filename>     # Will compile your program to an executable called <filename>* (on GNU plus Linux).
+
+```
+
+To launch the executable:
+
+```
+
+./<filename>
+
+```
+
+
+Should produce the expected output of your program. In case, for some reason your main.cpp file just returns a 0. consider starting  with the examples directory to code your actual program.
