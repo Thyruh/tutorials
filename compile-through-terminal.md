@@ -10,15 +10,12 @@ So. Suppose you have a working directory with your .cpp files: I called it examp
 cd examples/
 ls                                   # make sure you can see the .cpp file
 g++ <filename>.cpp -o <filename>     # Will compile your program to an executable called <filename>* (on GNU plus Linux).
-
 ```
 
 To launch the executable:
 
 ```
-
 ./<filename>
-
 ```
 
 
