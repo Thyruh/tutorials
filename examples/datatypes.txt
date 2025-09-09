@@ -1,0 +1,38 @@
+Yeah, no point for a .cc file here, i think.
+
+Before I begin. There will not be anything about the C/C++ syntax (Other than complaints, and constant expressions of how much
+i dislike the C++ syntax)
+I assume you have already gone through that part of the repo, as README suggests.
+
+So, types...
+
+For now we will talk about a couple of basic ones such as:
+    - integer.
+    - string. (or std::string, speaking of poor decisions:)
+    - boolean.
+    - char/char*.
+    - std::array.
+    - And of course std::vector (That is a joke, but fasten your seatbelts, ladies and gentlemen, we will get there BLAZINGLY FAST)
+
+In C/C++ an average code snippet for an integer usage would be this:
+
+int main() {
+    return 0;
+}
+
+Now you are going to ask: "What???? How is that an example of an integer when there are no varibles?"
+Well, an integer doesn't automatically imply a varible, in this case we have an example of a constant expression with a type int.
+Which is used by the program, just not stored as an integer on the g++ compiler level. But this is a bit of stretch. From now on,
+we will refer to this type of integer as an integer-literal, or just literal.
+
+
+Now something more logical would be:
+
+```
+
+int main() {
+    int x = 0;
+    return x;
+}
+
+```
