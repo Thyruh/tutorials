@@ -31,5 +31,4 @@ Lets set some ground rules. What that means is I will outline the best use of th
 
    3. idk, think of something smart and just pull request it (This applies to both .cpp files, and this README).
 
-License: idgaf, you can do whatever the hell you want, but if you cloned the repo and happened to make some usefull changes, and made some usefull
-    changes, please consider a little git push;
+License: idgaf, you can do whatever the hell you want, but if you cloned the repo and happened to make some usefull changes, please consider a little git push;
