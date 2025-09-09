@@ -17,6 +17,3 @@ To launch the executable:
 ```
 ./<filename>
 ```
-
-
-Should produce the expected output of your program. In case, for some reason your main.cpp file just returns a 0. consider starting  with the examples directory to code your actual program.
