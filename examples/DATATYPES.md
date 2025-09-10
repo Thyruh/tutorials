@@ -26,8 +26,8 @@ int main() {
 }
 ```
 
-Now you are going to ask: "What???? How is that an example of an integer when there are no varibles?"
-Well, an integer doesn't automatically imply a varible, in this case we have an example of a constant expression with a type int.
+Now you are going to ask: "What???? How is that an example of an integer when there are no variables?"
+Well, an integer doesn't automatically imply a variable, in this case we have an example of a constant expression with a type int.
 Which is used by the program, just not stored as an integer on the g++ compiler level. But this is a bit of stretch. From now on,
 we will refer to this type of integer as an integer-literal, or just literal.
 
