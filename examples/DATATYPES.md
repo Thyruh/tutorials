@@ -71,10 +71,12 @@ You could also say it's the powerhouse of std::string.
 
 ```
 int main() {
-    char ch = ''; // Notice the single quotes. Remember, can only be one single character. Shit like char ch = 'Hello, World!' will not slide
+    char ch = '';
     return 0;
 }
 ```
+
+Notice the single quotes. Remember, can only be one single character. Shit like char ch = 'Hello, World!' will not slide
 
 Now if you are starting to wonder: How the hell did C developers use strings, if there is no string keyword in the whole language?
 Let me answer - they used char*
