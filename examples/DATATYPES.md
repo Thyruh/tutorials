@@ -15,10 +15,10 @@ For now we will talk about a couple of basic ones such as:
     - And of course std::vector (That is a joke, but fasten your seatbelts, ladies and gentlemen, we will get there BLAZINGLY FAST)
 
 
-What is an integer, and what how do you cook it?
+What is an integer, and how do you cook it?
 Integer is a datatype for storing numbers that you want to do some math with in the future (99% cases)
 
-In C/C++ an average code snippet for an integer usage would be this:
+In C/C++ a code snippet for an integer usage would be this:
 
 ```
 int main() {
