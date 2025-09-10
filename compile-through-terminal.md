@@ -4,7 +4,7 @@ Second: It is not that hard, as long as you dont have to add linker flags and wo
 
 
 So. Suppose you have a working directory with your .cpp files: I called it examples/
-"<filename>.cpp" is inside the examples directory.
+/<filename/>.cpp is inside the examples directory.
 
 ```
 cd examples/
