@@ -71,7 +71,7 @@ You could also say it's the powerhouse of std::string.
 
 ```
 int main() {
-    char ch = '';
+    char ch = 'a';
     return 0;
 }
 ```
