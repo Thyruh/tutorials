@@ -116,7 +116,7 @@ void checker() { // Some kind of checker function (What is important is it's not
         return;
     }
     std::cout << "Haha, you failed!\n"; // if the  input provided by the user is less or equal to 10, this line gets executed.
-    // If input > 10 It prints ""Success!" and exits the function.
+    // If input > 10 It prints "Success!" and exits the function, never printing the fail line.
 }
 ```
 
