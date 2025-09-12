@@ -4,7 +4,6 @@ First: You are absolutely mental, keep it up.
 
 Second: It is not that hard, as long as you dont have to add linker flags and work with multiple files, you will be just fine.
 
-
 So. Suppose you have a working directory with your .cpp files: I called it examples/
 
  filename.cpp is inside the examples directory.

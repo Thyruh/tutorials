@@ -1,7 +1,6 @@
 std::cout << "Hello, disciples!\n";
 
 The very basics of the C++ programming language.
-
 The repository includes syntax 101 for those migrating from other languages (Whatever your problem is, I would never change any current language to cpp, but I don't have a choice anymore...)
 
 This also could be used by absolute beginners, featuring (very high-level) explanations to what integer, char*, std::string, and many other objects are. In case you are undecided as a beginner if you actually want to study C++, please, switch to Golang, or even to Python, you still have time.
