@@ -38,7 +38,7 @@ int main() {
     int input; // Declaring a variable without initializing the value.
     std::cin >> input; // Getting the input from the standart input from the user.
     if (input > 10) return 0; // If the input number > 10, success, if not, we got a problem!
-    return 1; // Exiting with the error code
+    return 1; // Exiting with the error code 1.
 }
 ```
 
@@ -111,8 +111,12 @@ This example is useless, of course, but something very similar to:
 void checker() { // Some kind of checker function (What is important is it's not main)
     int input; // Declaring a variable without initializing the value.
     std::cin >> input; // Getting the input from the standart stream from the user.
-    if (input > 10) std::cout << "Success!" << std::endl;
-    return; // Exiting without the error code.
+    if (input > 10) {
+        std::cout << "Success!" << std::endl;
+        return;
+    }
+    std::cout << "Haha, you failed!\n"; // if the  input provided by the user is less or equal to 10, this line gets executed.
+    // If input > 10 It prints ""Success!" and exits the function.
 }
 ```
 
