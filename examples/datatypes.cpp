@@ -57,7 +57,7 @@ int main() {
 
   SomeObject object;
 
-#if 0
+#if 0 // Just a fancy comment style, keeps the highlights, relax.
   object.name = "New string"; // This would be a bug as name is a private member of the object object of type SomeObject (Hi JS)
   // Neither can i print it:
   std::cout << object.name << std::endl;
