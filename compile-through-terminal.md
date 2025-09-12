@@ -1,6 +1,6 @@
 In case you are crazy enough to want to work in the terminal, like real men do, I have good and bad news.
 
-First: You are mental, keep it up.
+First: You are absolutely mental, keep it up.
 
 Second: It is not that hard, as long as you dont have to add linker flags and work with multiple files, you will be just fine.
 
