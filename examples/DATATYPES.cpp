@@ -69,9 +69,13 @@ int main() {
   int lg = object.whatIsTheName().length();
   std::cout << lg << std::endl;
 
+  std::cout << std::endl;
+  std::cout << std::endl;
+
   // A bit of a complicated example.
   // Lets try something easier:
   int lg1 = str.length();
+  std::cout << lg1 << std::endl;
   // We have an object str of type std::string. And the class defining the type has a method length() which counts the characters in the string
 
   return 0;
