@@ -22,7 +22,7 @@ compilation of our program with this line:
 
 ```return 0;```
 
-Lets talk about return, the keyword
+Lets talk about return, the keyword.
 If the function name it is called in == main, that means the end of execution of the entire program. Stop everything and exit the program with the exit
 code 0. 0 in this case meaning success. Now if I were to write:
 
