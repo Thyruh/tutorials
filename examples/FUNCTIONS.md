@@ -36,7 +36,7 @@ Lets review an example of where that could be useful:
 #include <iostream>
 int main() {
     int input; // Declaring a variable without initializing the value.
-    std::cin >> input; // Getting the input from the standart stream from the user.
+    std::cin >> input; // Getting the input from the standart input from the user.
     if (input > 10) return 0; // If the input number > 10, success, if not, we got a problem!
     return 1; // Exiting with the error code
 }
