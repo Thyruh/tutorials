@@ -71,8 +71,8 @@ int main() {
 
   std::cout << std::endl;
   std::cout << std::endl;
-
   // A bit of a complicated example.
+
   // Lets try something easier:
   int lg1 = str.length();
   std::cout << lg1 << std::endl;
