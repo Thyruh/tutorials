@@ -38,6 +38,7 @@ Now something more logical would be:
 int main() {
     int x = 0;
     return x;
+}
 ```
 
 
