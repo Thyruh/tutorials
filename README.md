@@ -5,7 +5,7 @@ The repository includes syntax 101 for those migrating from other languages (Wha
 
 This also could be used by absolute beginners, featuring (very high-level) explanations to what integer, char*, std::string, and many other objects are. In case you are undecided as a beginner if you actually want to study C++, please, switch to Golang, or even to Python, you still have time.
 
-For those who stayed to suffer, just go over the .cpp (.cc) files, they contain an overly obsessive amount of comments to make sureyou are left with no
+For those who stayed to suffer, just go over the .cpp (.cc) files, they contain an overly obsessive amount of comments to make sure you are left with no
 questions. For reference, even your college professor in a coding class won't make you write that many comments. If you have any questions, please refer
 to a thing called A search engine, or in case you really want to use AI: thyruh.business@gmail.com is the gmail that i just created for the very purpose
 of not using AI. I may check it once or twice a year, just like any group chat with 5+ people in it (Especially in messenger, jeez, the app sucks balls) // Can I be sued for saying this? We will find out I guess
